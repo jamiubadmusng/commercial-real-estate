@@ -280,6 +280,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💼 LinkedIn: [linkedin.com/in/jamiu-olamilekan-badmus-9276a8192](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)
 - 🌐 Website: [sites.google.com/view/jamiu-olamilekan-badmus](https://sites.google.com/view/jamiu-olamilekan-badmus/)
 
----
-
-*This project is part of a data science portfolio demonstrating expertise in real estate analytics, time-series analysis, and predictive modeling.*
