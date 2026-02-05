@@ -381,6 +381,3 @@ This analysis provides a comprehensive examination of commercial real estate dyn
 - 💼 LinkedIn: [linkedin.com/in/jamiu-olamilekan-badmus-9276a8192](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)
 - 🌐 Website: [sites.google.com/view/jamiu-olamilekan-badmus](https://sites.google.com/view/jamiu-olamilekan-badmus/)
 
----
-
-*This report is part of a comprehensive data science portfolio demonstrating expertise in real estate analytics, time-series analysis, and predictive modeling.*
